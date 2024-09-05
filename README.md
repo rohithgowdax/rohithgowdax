@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohithgowdax](https://github.com/rohithgowdax)
 
-- 💬 Ask me about **Python, Django, Web technologies**
+- 💬 Ask me about **Python, Artificial Intelligence, Machine learning**
 
 - 📫 How to reach me **rohithgowdax@gmail.com**
 
