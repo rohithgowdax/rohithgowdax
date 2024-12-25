@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rohith Gowda R</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-- 🔭 I’m currently working on **Python Full Stack Development.**
+- 🔭 I’m currently working on **Machine Learning Models.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Deep Learing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohithgowdax](https://github.com/rohithgowdax)
 
