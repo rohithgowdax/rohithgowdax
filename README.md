@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rohith Gowda R</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A passionate AI Enthusiast</h3>
 
 - 🔭 I’m currently working on **Machine Learning Models.**
 
