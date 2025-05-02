@@ -11,9 +11,9 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Rohith Gowda R"
+        self.role = "AI Engineer"
+        self.language_spoken = ["kan_IN", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
