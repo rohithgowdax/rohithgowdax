@@ -25,13 +25,13 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://zhenye-na.github.io/
+- Personal  blog: https://zhenye-na.github.io/
 - LeetCode : https://leetcode.com/u/rohithgowdax/
 
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Concurrent Programming 1 - Fundamentals]
+- [Machine Learning ](https://machine-learningx.blogspot.com/)
 - [Introduction to Dependency Injection in Java]
 - [Distributed Transactions and Sagas in Microservices]
 - [Design Patterns: Strategy Pattern]
