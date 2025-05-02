@@ -25,7 +25,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal  blog: https://zhenye-na.github.io/
+- Personal  blog: https://www.blogger.com/profile/03763646083490383195
 - LeetCode : https://leetcode.com/u/rohithgowdax/
 
 ### 📔 Latest Blog posts
