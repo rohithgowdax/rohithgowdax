@@ -1,4 +1,4 @@
-# Hello there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="40" height="40" />
+# Hello there! 👋
 
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rohithgowdax) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rohithgowdax)
 
