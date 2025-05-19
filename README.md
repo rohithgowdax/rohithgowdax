@@ -22,6 +22,12 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w5e3u7x473ijd6qfuslgu5ndmq&count=1&width=1000px" alt="Spotify">
+</div>
+
+
+
 ## 🔧 Technologies & Tools
 
 <div align="left">
