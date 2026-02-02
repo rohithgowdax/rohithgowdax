@@ -92,6 +92,6 @@ pipx run rohith
 
 - Personal  blog: https://medium.com/@rohithgowdax
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+</div> -->
