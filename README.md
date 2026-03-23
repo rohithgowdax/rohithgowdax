@@ -26,10 +26,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-👇 Hit in your console or terminal to connect with me.
-```
-pipx run rohith
-```
+
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w5e3u7x473ijd6qfuslgu5ndmq&count=1&width=1000px" alt="Spotify">
 </div>
